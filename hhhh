@@ -15,8 +15,8 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
- Title = "Shield bypass is loaded";
- Text = "Toggle Key is Z";
+ Title = "Nodrown";
+ Text = "Drown u fat nigga";
  Icon = "";
  Duration = 5;
  Button1 = "okay";
